@@ -70,7 +70,7 @@ python ladle_pool_area.py --src video2.mp4 --show
 ```
 Hazır video olan video.mp4 videosunun çıktısı docs klasöründe gösterilmiştir
 
-[Videonun tamamını izle](docs/demo.mp4)
+![Demo çıktı](docs/demo.gif)
 
 ### Yeni videoda kalibrasyon
 
